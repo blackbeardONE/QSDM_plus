@@ -58,7 +58,7 @@ QSDM+ is a scalable, AI-integrated, hardware-optimized architecture designed to 
 - GTX 3050 accelerates 3D PoE validation.
 - Reputation-weighted voting retires poorly performing submeshes.
 
-## Visualization: How QSDM+ Works
+## Visualization: How QSDM+ Development Process Works
 
 ```mermaid
 flowchart TD
