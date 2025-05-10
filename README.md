@@ -119,4 +119,3 @@ QSDM+ harmonizes cutting-edge technology (quantum-safe mesh, AI-driven optimizat
 Developed by [Blackbeard](https://blackbeard.one) | [Ten Titanics](https://tentitanics.com) | [GitHub](https://github.com/blackbeardONE)
 
 © 2023-2025 Blackbeard. All rights reserved.
-# QSDM_plus
