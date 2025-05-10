@@ -3,11 +3,11 @@ https://ko-fi.com/joedeldalioan
 
 or send me some love via paypal or crypto >>
 
--Paypal: paypal.me/Dalioan
--Bitcoin (Unisat): bc1qu8pknsrwvssspq4c6a5j4p3x835phq8n3ajcgw
--Solana: FNEdD3PWMLwbNKxtaHy3W2NVfRJ7wqDNx4M9je8Xc6Mw
--Tron: TGVrpryTJAmWEPWTKYB3tGRv5gWhE2g9Lo
--Metamask: 0x9F32B8346bD728DF3AB7775971705D02fb86dD9c
+- **Paypal:** paypal.me/Dalioan
+- **Bitcoin (Unisat):** bc1qu8pknsrwvssspq4c6a5j4p3x835phq8n3ajcgw
+- **Solana:** FNEdD3PWMLwbNKxtaHy3W2NVfRJ7wqDNx4M9je8Xc6Mw
+- **Tron:** TGVrpryTJAmWEPWTKYB3tGRv5gWhE2g9Lo
+- **Metamask:** 0x9F32B8346bD728DF3AB7775971705D02fb86dD9c
 
 # AI Quantum-Secure Dynamic Mesh Ledger (QSDM+)
 
